@@ -1,2 +1,1 @@
-Hi! I'm Jasmina Rain. 19 years old developer based in Germany.
-Just started learning languages such as Python and C# :) 
+Hi! I'm Jasmina Rain, a 20 year old computer science student based in Constance, Germany. 
